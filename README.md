@@ -4,6 +4,7 @@ Analyzed retail sales data to uncover product performance, customer trends, and 
 Built a complete data pipeline from preprocessing to visualization using Python, SQL, and Looker Studio.
 
 - **Python** (Pandas, NumPy)
+- **Excel**
 - **Google Colab**
 - **MySQL**, **SQL**
 - **Looker Studio**
