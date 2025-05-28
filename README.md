@@ -1,11 +1,8 @@
 # 📊 Global Electronics Retailer Data Analysis & Dashboard
 
-Data analysis and dashboard for a global electronics retailer.
-
 Analyzed retail sales data to uncover product performance, customer trends, and channel-based insights.
 Built a complete data pipeline from preprocessing to visualization using Python, SQL, and Looker Studio.
 
-## 🔧 Tools Used
 - **Python** (Pandas, NumPy)
 - **Google Colab**
 - **MySQL**, **SQL**
